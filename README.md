@@ -7,4 +7,4 @@ V okviru tega projekta se bomo ukvarjali z analizo besed.
 * Liza Šuc
 * Dvorak
 * Tobi
-* Waaa
+* Waaaa
